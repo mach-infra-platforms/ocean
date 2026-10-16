@@ -21,7 +21,7 @@ These examples demonstrate:
 
 ```
 deployment/
-└── terraform/
+└── iac/
     ├── aws/          # Example AWS deployment
     ├── gcp/          # Example GCP deployment
     └── azure/        # Example Azure deployment
